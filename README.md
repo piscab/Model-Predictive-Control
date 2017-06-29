@@ -10,7 +10,7 @@ This project aims to apply a predictive control to autonomously drive a car on a
 ### Implementation
 
 * Clone or download the entire project from [here](https://github.com/udacity/CarND-MPC-Project). 
-* Replace two of the original files with my solutions:
+* In the src/ folder, replace two of the original files with the solutions provided [here](https://github.com/piscab/Model-Predictive-Control/blob/master/):
     - [main.cpp](https://github.com/piscab/Model-Predictive-Control/blob/master/main.cpp)
     - [MPC.cpp](https://github.com/piscab/Model-Predictive-Control/blob/master/MPC.cpp)
 * Follow the implemtation instruction described [here](https://github.com/udacity/CarND-MPC-Project/blob/master/README.md).  
