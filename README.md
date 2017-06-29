@@ -11,12 +11,14 @@ This project aims to apply a predictive control to autonomously drive a car on a
 
 * Clone or download the entire project from [here](https://github.com/udacity/CarND-MPC-Project). 
 * Replace two of the original files with my solutions:
-    - 
-    -  
+    - [main.cpp](https://github.com/piscab/Model-Predictive-Control/blob/master/main.cpp)
+    - [MPC.cpp](https://github.com/piscab/Model-Predictive-Control/blob/master/MPC.cpp)
 * Follow the implemtation instruction described [here](https://github.com/udacity/CarND-MPC-Project/blob/master/README.md).  
 
-This [video](https://vimeo.com/223588171) shows the outcome of the project.  
+This [video](https://vimeo.com/223588171) shows the outcome of the project.   
 
+
+---
 
 # Model Predictive Control (MPC) Project
 
@@ -26,7 +28,6 @@ This [video](https://vimeo.com/223588171) shows the outcome of the project.
 ### The Model  
 
 > _Student describes their model in detail. This includes the state, actuators and update equations._  
-
 
 In this project, I apply a predictive control to autonomously drive a car on a track via a kinematic model. Kinematic models are a subset of more complex and complete "dynamic models", and share with them the approach of optimizing on a finite time horizon while predicting and then implementing a solution for a shorter period. In particular, for this characteristic, both differ from the proportional–integral–derivative controller (PID controller) models. 
 
