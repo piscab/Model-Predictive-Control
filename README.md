@@ -1,4 +1,4 @@
-# Vehicle Detection and Tracking
+# Model Predictive Control
 > Please refer to: Self-Driving Car Engineer Nanodegree - Udacity, [Term 2 - Project 5](https://github.com/udacity/CarND-MPC-Project)
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
@@ -22,11 +22,7 @@ This [video](https://vimeo.com/223588171) shows the outcome of the project.
 
 
 ---
-
-# Model Predictive Control (MPC) Project
-
----
-## Implementation notes 
+## MPC - Implementation notes 
 ---
 ### The Model  
 
